@@ -1,0 +1,7920 @@
+fileFormatVersion: 2
+guid: 427a6a4946f253347955db43df9d9d1f
+timeCreated: 1513857929
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: IndustrialCraft_2CSS_0
+    21300002: IndustrialCraft_2CSS_1
+    21300004: IndustrialCraft_2CSS_2
+    21300006: IndustrialCraft_2CSS_3
+    21300008: IndustrialCraft_2CSS_4
+    21300010: IndustrialCraft_2CSS_5
+    21300012: IndustrialCraft_2CSS_6
+    21300014: IndustrialCraft_2CSS_7
+    21300016: IndustrialCraft_2CSS_8
+    21300018: IndustrialCraft_2CSS_9
+    21300020: IndustrialCraft_2CSS_10
+    21300022: IndustrialCraft_2CSS_11
+    21300024: IndustrialCraft_2CSS_12
+    21300026: IndustrialCraft_2CSS_13
+    21300028: IndustrialCraft_2CSS_14
+    21300030: IndustrialCraft_2CSS_15
+    21300032: IndustrialCraft_2CSS_16
+    21300034: IndustrialCraft_2CSS_17
+    21300036: IndustrialCraft_2CSS_18
+    21300038: IndustrialCraft_2CSS_19
+    21300040: IndustrialCraft_2CSS_20
+    21300042: IndustrialCraft_2CSS_21
+    21300044: IndustrialCraft_2CSS_22
+    21300046: IndustrialCraft_2CSS_23
+    21300048: IndustrialCraft_2CSS_24
+    21300050: IndustrialCraft_2CSS_25
+    21300052: IndustrialCraft_2CSS_26
+    21300054: IndustrialCraft_2CSS_27
+    21300056: IndustrialCraft_2CSS_28
+    21300058: IndustrialCraft_2CSS_29
+    21300060: IndustrialCraft_2CSS_30
+    21300062: IndustrialCraft_2CSS_31
+    21300064: IndustrialCraft_2CSS_32
+    21300066: IndustrialCraft_2CSS_33
+    21300068: IndustrialCraft_2CSS_34
+    21300070: IndustrialCraft_2CSS_35
+    21300072: IndustrialCraft_2CSS_36
+    21300074: IndustrialCraft_2CSS_37
+    21300076: IndustrialCraft_2CSS_38
+    21300078: IndustrialCraft_2CSS_39
+    21300080: IndustrialCraft_2CSS_40
+    21300082: IndustrialCraft_2CSS_41
+    21300084: IndustrialCraft_2CSS_42
+    21300086: IndustrialCraft_2CSS_43
+    21300088: IndustrialCraft_2CSS_44
+    21300090: IndustrialCraft_2CSS_45
+    21300092: IndustrialCraft_2CSS_46
+    21300094: IndustrialCraft_2CSS_47
+    21300096: IndustrialCraft_2CSS_48
+    21300098: IndustrialCraft_2CSS_49
+    21300100: IndustrialCraft_2CSS_50
+    21300102: IndustrialCraft_2CSS_51
+    21300104: IndustrialCraft_2CSS_52
+    21300106: IndustrialCraft_2CSS_53
+    21300108: IndustrialCraft_2CSS_54
+    21300110: IndustrialCraft_2CSS_55
+    21300112: IndustrialCraft_2CSS_56
+    21300114: IndustrialCraft_2CSS_57
+    21300116: IndustrialCraft_2CSS_58
+    21300118: IndustrialCraft_2CSS_59
+    21300120: IndustrialCraft_2CSS_60
+    21300122: IndustrialCraft_2CSS_61
+    21300124: IndustrialCraft_2CSS_62
+    21300126: IndustrialCraft_2CSS_63
+    21300128: IndustrialCraft_2CSS_64
+    21300130: IndustrialCraft_2CSS_65
+    21300132: IndustrialCraft_2CSS_66
+    21300134: IndustrialCraft_2CSS_67
+    21300136: IndustrialCraft_2CSS_68
+    21300138: IndustrialCraft_2CSS_69
+    21300140: IndustrialCraft_2CSS_70
+    21300142: IndustrialCraft_2CSS_71
+    21300144: IndustrialCraft_2CSS_72
+    21300146: IndustrialCraft_2CSS_73
+    21300148: IndustrialCraft_2CSS_74
+    21300150: IndustrialCraft_2CSS_75
+    21300152: IndustrialCraft_2CSS_76
+    21300154: IndustrialCraft_2CSS_77
+    21300156: IndustrialCraft_2CSS_78
+    21300158: IndustrialCraft_2CSS_79
+    21300160: IndustrialCraft_2CSS_80
+    21300162: IndustrialCraft_2CSS_81
+    21300164: IndustrialCraft_2CSS_82
+    21300166: IndustrialCraft_2CSS_83
+    21300168: IndustrialCraft_2CSS_84
+    21300170: IndustrialCraft_2CSS_85
+    21300172: IndustrialCraft_2CSS_86
+    21300174: IndustrialCraft_2CSS_87
+    21300176: IndustrialCraft_2CSS_88
+    21300178: IndustrialCraft_2CSS_89
+    21300180: IndustrialCraft_2CSS_90
+    21300182: IndustrialCraft_2CSS_91
+    21300184: IndustrialCraft_2CSS_92
+    21300186: IndustrialCraft_2CSS_93
+    21300188: IndustrialCraft_2CSS_94
+    21300190: IndustrialCraft_2CSS_95
+    21300192: IndustrialCraft_2CSS_96
+    21300194: IndustrialCraft_2CSS_97
+    21300196: IndustrialCraft_2CSS_98
+    21300198: IndustrialCraft_2CSS_99
+    21300200: IndustrialCraft_2CSS_100
+    21300202: IndustrialCraft_2CSS_101
+    21300204: IndustrialCraft_2CSS_102
+    21300206: IndustrialCraft_2CSS_103
+    21300208: IndustrialCraft_2CSS_104
+    21300210: IndustrialCraft_2CSS_105
+    21300212: IndustrialCraft_2CSS_106
+    21300214: IndustrialCraft_2CSS_107
+    21300216: IndustrialCraft_2CSS_108
+    21300218: IndustrialCraft_2CSS_109
+    21300220: IndustrialCraft_2CSS_110
+    21300222: IndustrialCraft_2CSS_111
+    21300224: IndustrialCraft_2CSS_112
+    21300226: IndustrialCraft_2CSS_113
+    21300228: IndustrialCraft_2CSS_114
+    21300230: IndustrialCraft_2CSS_115
+    21300232: IndustrialCraft_2CSS_116
+    21300234: IndustrialCraft_2CSS_117
+    21300236: IndustrialCraft_2CSS_118
+    21300238: IndustrialCraft_2CSS_119
+    21300240: IndustrialCraft_2CSS_120
+    21300242: IndustrialCraft_2CSS_121
+    21300244: IndustrialCraft_2CSS_122
+    21300246: IndustrialCraft_2CSS_123
+    21300248: IndustrialCraft_2CSS_124
+    21300250: IndustrialCraft_2CSS_125
+    21300252: IndustrialCraft_2CSS_126
+    21300254: IndustrialCraft_2CSS_127
+    21300256: IndustrialCraft_2CSS_128
+    21300258: IndustrialCraft_2CSS_129
+    21300260: IndustrialCraft_2CSS_130
+    21300262: IndustrialCraft_2CSS_131
+    21300264: IndustrialCraft_2CSS_132
+    21300266: IndustrialCraft_2CSS_133
+    21300268: IndustrialCraft_2CSS_134
+    21300270: IndustrialCraft_2CSS_135
+    21300272: IndustrialCraft_2CSS_136
+    21300274: IndustrialCraft_2CSS_137
+    21300276: IndustrialCraft_2CSS_138
+    21300278: IndustrialCraft_2CSS_139
+    21300280: IndustrialCraft_2CSS_140
+    21300282: IndustrialCraft_2CSS_141
+    21300284: IndustrialCraft_2CSS_142
+    21300286: IndustrialCraft_2CSS_143
+    21300288: IndustrialCraft_2CSS_144
+    21300290: IndustrialCraft_2CSS_145
+    21300292: IndustrialCraft_2CSS_146
+    21300294: IndustrialCraft_2CSS_147
+    21300296: IndustrialCraft_2CSS_148
+    21300298: IndustrialCraft_2CSS_149
+    21300300: IndustrialCraft_2CSS_150
+    21300302: IndustrialCraft_2CSS_151
+    21300304: IndustrialCraft_2CSS_152
+    21300306: IndustrialCraft_2CSS_153
+    21300308: IndustrialCraft_2CSS_154
+    21300310: IndustrialCraft_2CSS_155
+    21300312: IndustrialCraft_2CSS_156
+    21300314: IndustrialCraft_2CSS_157
+    21300316: IndustrialCraft_2CSS_158
+    21300318: IndustrialCraft_2CSS_159
+    21300320: IndustrialCraft_2CSS_160
+    21300322: IndustrialCraft_2CSS_161
+    21300324: IndustrialCraft_2CSS_162
+    21300326: IndustrialCraft_2CSS_163
+    21300328: IndustrialCraft_2CSS_164
+    21300330: IndustrialCraft_2CSS_165
+    21300332: IndustrialCraft_2CSS_166
+    21300334: IndustrialCraft_2CSS_167
+    21300336: IndustrialCraft_2CSS_168
+    21300338: IndustrialCraft_2CSS_169
+    21300340: IndustrialCraft_2CSS_170
+    21300342: IndustrialCraft_2CSS_171
+    21300344: IndustrialCraft_2CSS_172
+    21300346: IndustrialCraft_2CSS_173
+    21300348: IndustrialCraft_2CSS_174
+    21300350: IndustrialCraft_2CSS_175
+    21300352: IndustrialCraft_2CSS_176
+    21300354: IndustrialCraft_2CSS_177
+    21300356: IndustrialCraft_2CSS_178
+    21300358: IndustrialCraft_2CSS_179
+    21300360: IndustrialCraft_2CSS_180
+    21300362: IndustrialCraft_2CSS_181
+    21300364: IndustrialCraft_2CSS_182
+    21300366: IndustrialCraft_2CSS_183
+    21300368: IndustrialCraft_2CSS_184
+    21300370: IndustrialCraft_2CSS_185
+    21300372: IndustrialCraft_2CSS_186
+    21300374: IndustrialCraft_2CSS_187
+    21300376: IndustrialCraft_2CSS_188
+    21300378: IndustrialCraft_2CSS_189
+    21300380: IndustrialCraft_2CSS_190
+    21300382: IndustrialCraft_2CSS_191
+    21300384: IndustrialCraft_2CSS_192
+    21300386: IndustrialCraft_2CSS_193
+    21300388: IndustrialCraft_2CSS_194
+    21300390: IndustrialCraft_2CSS_195
+    21300392: IndustrialCraft_2CSS_196
+    21300394: IndustrialCraft_2CSS_197
+    21300396: IndustrialCraft_2CSS_198
+    21300398: IndustrialCraft_2CSS_199
+    21300400: IndustrialCraft_2CSS_200
+    21300402: IndustrialCraft_2CSS_201
+    21300404: IndustrialCraft_2CSS_202
+    21300406: IndustrialCraft_2CSS_203
+    21300408: IndustrialCraft_2CSS_204
+    21300410: IndustrialCraft_2CSS_205
+    21300412: IndustrialCraft_2CSS_206
+    21300414: IndustrialCraft_2CSS_207
+    21300416: IndustrialCraft_2CSS_208
+    21300418: IndustrialCraft_2CSS_209
+    21300420: IndustrialCraft_2CSS_210
+    21300422: IndustrialCraft_2CSS_211
+    21300424: IndustrialCraft_2CSS_212
+    21300426: IndustrialCraft_2CSS_213
+    21300428: IndustrialCraft_2CSS_214
+    21300430: IndustrialCraft_2CSS_215
+    21300432: IndustrialCraft_2CSS_216
+    21300434: IndustrialCraft_2CSS_217
+    21300436: IndustrialCraft_2CSS_218
+    21300438: IndustrialCraft_2CSS_219
+    21300440: IndustrialCraft_2CSS_220
+    21300442: IndustrialCraft_2CSS_221
+    21300444: IndustrialCraft_2CSS_222
+    21300446: IndustrialCraft_2CSS_223
+    21300448: IndustrialCraft_2CSS_224
+    21300450: IndustrialCraft_2CSS_225
+    21300452: IndustrialCraft_2CSS_226
+    21300454: IndustrialCraft_2CSS_227
+    21300456: IndustrialCraft_2CSS_228
+    21300458: IndustrialCraft_2CSS_229
+    21300460: IndustrialCraft_2CSS_230
+    21300462: IndustrialCraft_2CSS_231
+    21300464: IndustrialCraft_2CSS_232
+    21300466: IndustrialCraft_2CSS_233
+    21300468: IndustrialCraft_2CSS_234
+    21300470: IndustrialCraft_2CSS_235
+    21300472: IndustrialCraft_2CSS_236
+    21300474: IndustrialCraft_2CSS_237
+    21300476: IndustrialCraft_2CSS_238
+    21300478: IndustrialCraft_2CSS_239
+    21300480: IndustrialCraft_2CSS_240
+    21300482: IndustrialCraft_2CSS_241
+    21300484: IndustrialCraft_2CSS_242
+    21300486: IndustrialCraft_2CSS_243
+    21300488: IndustrialCraft_2CSS_244
+    21300490: IndustrialCraft_2CSS_245
+    21300492: IndustrialCraft_2CSS_246
+    21300494: IndustrialCraft_2CSS_247
+    21300496: IndustrialCraft_2CSS_248
+    21300498: IndustrialCraft_2CSS_249
+    21300500: IndustrialCraft_2CSS_250
+    21300502: IndustrialCraft_2CSS_251
+    21300504: IndustrialCraft_2CSS_252
+    21300506: IndustrialCraft_2CSS_253
+    21300508: IndustrialCraft_2CSS_254
+    21300510: IndustrialCraft_2CSS_255
+    21300512: IndustrialCraft_2CSS_256
+    21300514: IndustrialCraft_2CSS_257
+    21300516: IndustrialCraft_2CSS_258
+    21300518: IndustrialCraft_2CSS_259
+    21300520: IndustrialCraft_2CSS_260
+    21300522: IndustrialCraft_2CSS_261
+    21300524: IndustrialCraft_2CSS_262
+    21300526: IndustrialCraft_2CSS_263
+    21300528: IndustrialCraft_2CSS_264
+    21300530: IndustrialCraft_2CSS_265
+    21300532: IndustrialCraft_2CSS_266
+    21300534: IndustrialCraft_2CSS_267
+    21300536: IndustrialCraft_2CSS_268
+    21300538: IndustrialCraft_2CSS_269
+    21300540: IndustrialCraft_2CSS_270
+    21300542: IndustrialCraft_2CSS_271
+    21300544: IndustrialCraft_2CSS_272
+    21300546: IndustrialCraft_2CSS_273
+    21300548: IndustrialCraft_2CSS_274
+    21300550: IndustrialCraft_2CSS_275
+    21300552: IndustrialCraft_2CSS_276
+    21300554: IndustrialCraft_2CSS_277
+    21300556: IndustrialCraft_2CSS_278
+    21300558: IndustrialCraft_2CSS_279
+    21300560: IndustrialCraft_2CSS_280
+    21300562: IndustrialCraft_2CSS_281
+    21300564: IndustrialCraft_2CSS_282
+    21300566: IndustrialCraft_2CSS_283
+    21300568: IndustrialCraft_2CSS_284
+    21300570: IndustrialCraft_2CSS_285
+    21300572: IndustrialCraft_2CSS_286
+    21300574: IndustrialCraft_2CSS_287
+    21300576: IndustrialCraft_2CSS_288
+    21300578: IndustrialCraft_2CSS_289
+    21300580: IndustrialCraft_2CSS_290
+    21300582: IndustrialCraft_2CSS_291
+    21300584: IndustrialCraft_2CSS_292
+    21300586: IndustrialCraft_2CSS_293
+    21300588: IndustrialCraft_2CSS_294
+    21300590: IndustrialCraft_2CSS_295
+    21300592: IndustrialCraft_2CSS_296
+    21300594: IndustrialCraft_2CSS_297
+    21300596: IndustrialCraft_2CSS_298
+    21300598: IndustrialCraft_2CSS_299
+    21300600: IndustrialCraft_2CSS_300
+    21300602: IndustrialCraft_2CSS_301
+    21300604: IndustrialCraft_2CSS_302
+    21300606: IndustrialCraft_2CSS_303
+    21300608: IndustrialCraft_2CSS_304
+    21300610: IndustrialCraft_2CSS_305
+    21300612: IndustrialCraft_2CSS_306
+    21300614: IndustrialCraft_2CSS_307
+    21300616: IndustrialCraft_2CSS_308
+    21300618: IndustrialCraft_2CSS_309
+    21300620: IndustrialCraft_2CSS_310
+    21300622: IndustrialCraft_2CSS_311
+    21300624: IndustrialCraft_2CSS_312
+    21300626: IndustrialCraft_2CSS_313
+    21300628: IndustrialCraft_2CSS_314
+    21300630: IndustrialCraft_2CSS_315
+    21300632: IndustrialCraft_2CSS_316
+    21300634: IndustrialCraft_2CSS_317
+    21300636: IndustrialCraft_2CSS_318
+    21300638: IndustrialCraft_2CSS_319
+    21300640: IndustrialCraft_2CSS_320
+    21300642: IndustrialCraft_2CSS_321
+    21300644: IndustrialCraft_2CSS_322
+    21300646: IndustrialCraft_2CSS_323
+    21300648: IndustrialCraft_2CSS_324
+    21300650: IndustrialCraft_2CSS_325
+    21300652: IndustrialCraft_2CSS_326
+    21300654: IndustrialCraft_2CSS_327
+    21300656: IndustrialCraft_2CSS_328
+    21300658: IndustrialCraft_2CSS_329
+    21300660: IndustrialCraft_2CSS_330
+    21300662: IndustrialCraft_2CSS_331
+    21300664: IndustrialCraft_2CSS_332
+    21300666: IndustrialCraft_2CSS_333
+    21300668: IndustrialCraft_2CSS_334
+    21300670: IndustrialCraft_2CSS_335
+    21300672: IndustrialCraft_2CSS_336
+    21300674: IndustrialCraft_2CSS_337
+    21300676: IndustrialCraft_2CSS_338
+    21300678: IndustrialCraft_2CSS_339
+    21300680: IndustrialCraft_2CSS_340
+    21300682: IndustrialCraft_2CSS_341
+    21300684: IndustrialCraft_2CSS_342
+    21300686: IndustrialCraft_2CSS_343
+    21300688: IndustrialCraft_2CSS_344
+    21300690: IndustrialCraft_2CSS_345
+    21300692: IndustrialCraft_2CSS_346
+    21300694: IndustrialCraft_2CSS_347
+    21300696: IndustrialCraft_2CSS_348
+    21300698: IndustrialCraft_2CSS_349
+    21300700: IndustrialCraft_2CSS_350
+    21300702: IndustrialCraft_2CSS_351
+    21300704: IndustrialCraft_2CSS_352
+    21300706: IndustrialCraft_2CSS_353
+    21300708: IndustrialCraft_2CSS_354
+    21300710: IndustrialCraft_2CSS_355
+    21300712: IndustrialCraft_2CSS_356
+    21300714: IndustrialCraft_2CSS_357
+    21300716: IndustrialCraft_2CSS_358
+    21300718: IndustrialCraft_2CSS_359
+    21300720: IndustrialCraft_2CSS_360
+    21300722: IndustrialCraft_2CSS_361
+    21300724: IndustrialCraft_2CSS_362
+    21300726: IndustrialCraft_2CSS_363
+    21300728: IndustrialCraft_2CSS_364
+    21300730: IndustrialCraft_2CSS_365
+    21300732: IndustrialCraft_2CSS_366
+    21300734: IndustrialCraft_2CSS_367
+    21300736: IndustrialCraft_2CSS_368
+    21300738: IndustrialCraft_2CSS_369
+    21300740: IndustrialCraft_2CSS_370
+    21300742: IndustrialCraft_2CSS_371
+    21300744: IndustrialCraft_2CSS_372
+    21300746: IndustrialCraft_2CSS_373
+    21300748: IndustrialCraft_2CSS_374
+    21300750: IndustrialCraft_2CSS_375
+    21300752: IndustrialCraft_2CSS_376
+    21300754: IndustrialCraft_2CSS_377
+    21300756: IndustrialCraft_2CSS_378
+    21300758: IndustrialCraft_2CSS_379
+    21300760: IndustrialCraft_2CSS_380
+    21300762: IndustrialCraft_2CSS_381
+    21300764: IndustrialCraft_2CSS_382
+    21300766: IndustrialCraft_2CSS_383
+    21300768: IndustrialCraft_2CSS_384
+    21300770: IndustrialCraft_2CSS_385
+    21300772: IndustrialCraft_2CSS_386
+    21300774: IndustrialCraft_2CSS_387
+    21300776: IndustrialCraft_2CSS_388
+    21300778: IndustrialCraft_2CSS_389
+    21300780: IndustrialCraft_2CSS_390
+    21300782: IndustrialCraft_2CSS_391
+    21300784: IndustrialCraft_2CSS_392
+    21300786: IndustrialCraft_2CSS_393
+    21300788: IndustrialCraft_2CSS_394
+    21300790: IndustrialCraft_2CSS_395
+    21300792: IndustrialCraft_2CSS_396
+    21300794: IndustrialCraft_2CSS_397
+    21300796: IndustrialCraft_2CSS_398
+    21300798: IndustrialCraft_2CSS_399
+    21300800: IndustrialCraft_2CSS_400
+    21300802: IndustrialCraft_2CSS_401
+    21300804: IndustrialCraft_2CSS_402
+    21300806: IndustrialCraft_2CSS_403
+    21300808: IndustrialCraft_2CSS_404
+    21300810: IndustrialCraft_2CSS_405
+    21300812: IndustrialCraft_2CSS_406
+    21300814: IndustrialCraft_2CSS_407
+    21300816: IndustrialCraft_2CSS_408
+    21300818: IndustrialCraft_2CSS_409
+    21300820: IndustrialCraft_2CSS_410
+    21300822: IndustrialCraft_2CSS_411
+    21300824: IndustrialCraft_2CSS_412
+    21300826: IndustrialCraft_2CSS_413
+    21300828: IndustrialCraft_2CSS_414
+    21300830: IndustrialCraft_2CSS_415
+    21300832: IndustrialCraft_2CSS_416
+    21300834: IndustrialCraft_2CSS_417
+    21300836: IndustrialCraft_2CSS_418
+    21300838: IndustrialCraft_2CSS_419
+    21300840: IndustrialCraft_2CSS_420
+    21300842: IndustrialCraft_2CSS_421
+    21300844: IndustrialCraft_2CSS_422
+    21300846: IndustrialCraft_2CSS_423
+    21300848: IndustrialCraft_2CSS_424
+    21300850: IndustrialCraft_2CSS_425
+    21300852: IndustrialCraft_2CSS_426
+    21300854: IndustrialCraft_2CSS_427
+    21300856: IndustrialCraft_2CSS_428
+    21300858: IndustrialCraft_2CSS_429
+    21300860: IndustrialCraft_2CSS_430
+    21300862: IndustrialCraft_2CSS_431
+    21300864: IndustrialCraft_2CSS_432
+    21300866: IndustrialCraft_2CSS_433
+    21300868: IndustrialCraft_2CSS_434
+    21300870: IndustrialCraft_2CSS_435
+    21300872: IndustrialCraft_2CSS_436
+    21300874: IndustrialCraft_2CSS_437
+    21300876: IndustrialCraft_2CSS_438
+    21300878: IndustrialCraft_2CSS_439
+    21300880: IndustrialCraft_2CSS_440
+    21300882: IndustrialCraft_2CSS_441
+    21300884: IndustrialCraft_2CSS_442
+    21300886: IndustrialCraft_2CSS_443
+    21300888: IndustrialCraft_2CSS_444
+    21300890: IndustrialCraft_2CSS_445
+    21300892: IndustrialCraft_2CSS_446
+    21300894: IndustrialCraft_2CSS_447
+    21300896: IndustrialCraft_2CSS_448
+    21300898: IndustrialCraft_2CSS_449
+    21300900: IndustrialCraft_2CSS_450
+    21300902: IndustrialCraft_2CSS_451
+    21300904: IndustrialCraft_2CSS_452
+    21300906: IndustrialCraft_2CSS_453
+    21300908: IndustrialCraft_2CSS_454
+    21300910: IndustrialCraft_2CSS_455
+    21300912: IndustrialCraft_2CSS_456
+    21300914: IndustrialCraft_2CSS_457
+    21300916: IndustrialCraft_2CSS_458
+    21300918: IndustrialCraft_2CSS_459
+    21300920: IndustrialCraft_2CSS_460
+    21300922: IndustrialCraft_2CSS_461
+    21300924: IndustrialCraft_2CSS_462
+    21300926: IndustrialCraft_2CSS_463
+    21300928: IndustrialCraft_2CSS_464
+    21300930: IndustrialCraft_2CSS_465
+    21300932: IndustrialCraft_2CSS_466
+    21300934: IndustrialCraft_2CSS_467
+    21300936: IndustrialCraft_2CSS_468
+    21300938: IndustrialCraft_2CSS_469
+    21300940: IndustrialCraft_2CSS_470
+    21300942: IndustrialCraft_2CSS_471
+    21300944: IndustrialCraft_2CSS_472
+    21300946: IndustrialCraft_2CSS_473
+    21300948: IndustrialCraft_2CSS_474
+    21300950: IndustrialCraft_2CSS_475
+    21300952: IndustrialCraft_2CSS_476
+    21300954: IndustrialCraft_2CSS_477
+    21300956: IndustrialCraft_2CSS_478
+    21300958: IndustrialCraft_2CSS_479
+    21300960: IndustrialCraft_2CSS_480
+    21300962: IndustrialCraft_2CSS_481
+    21300964: IndustrialCraft_2CSS_482
+    21300966: IndustrialCraft_2CSS_483
+    21300968: IndustrialCraft_2CSS_484
+    21300970: IndustrialCraft_2CSS_485
+    21300972: IndustrialCraft_2CSS_486
+    21300974: IndustrialCraft_2CSS_487
+    21300976: IndustrialCraft_2CSS_488
+    21300978: IndustrialCraft_2CSS_489
+    21300980: IndustrialCraft_2CSS_490
+    21300982: IndustrialCraft_2CSS_491
+    21300984: IndustrialCraft_2CSS_492
+    21300986: IndustrialCraft_2CSS_493
+    21300988: IndustrialCraft_2CSS_494
+    21300990: IndustrialCraft_2CSS_495
+    21300992: IndustrialCraft_2CSS_496
+    21300994: IndustrialCraft_2CSS_497
+    21300996: IndustrialCraft_2CSS_498
+    21300998: IndustrialCraft_2CSS_499
+    21301000: IndustrialCraft_2CSS_500
+    21301002: IndustrialCraft_2CSS_501
+    21301004: IndustrialCraft_2CSS_502
+    21301006: IndustrialCraft_2CSS_503
+    21301008: IndustrialCraft_2CSS_504
+    21301010: IndustrialCraft_2CSS_505
+    21301012: IndustrialCraft_2CSS_506
+    21301014: IndustrialCraft_2CSS_507
+    21301016: IndustrialCraft_2CSS_508
+    21301018: IndustrialCraft_2CSS_509
+    21301020: IndustrialCraft_2CSS_510
+    21301022: IndustrialCraft_2CSS_511
+    21301024: IndustrialCraft_2CSS_512
+    21301026: IndustrialCraft_2CSS_513
+    21301028: IndustrialCraft_2CSS_514
+    21301030: IndustrialCraft_2CSS_515
+    21301032: IndustrialCraft_2CSS_516
+    21301034: IndustrialCraft_2CSS_517
+    21301036: IndustrialCraft_2CSS_518
+    21301038: IndustrialCraft_2CSS_519
+    21301040: IndustrialCraft_2CSS_520
+    21301042: IndustrialCraft_2CSS_521
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1088
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_1
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 1089
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_2
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 1089
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_3
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 1089
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_4
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 1089
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_5
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 1089
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_6
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 1089
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_7
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 1089
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_8
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 1089
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_9
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 1089
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_10
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 1089
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_11
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 1089
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_12
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 1089
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_13
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 1089
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_14
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 1089
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_15
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 1089
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_16
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1057
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_17
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 1057
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_18
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 1057
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_19
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 1057
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_20
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 1057
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_21
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 1057
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_22
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 1057
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_23
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 1057
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_24
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 1057
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_25
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 1057
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_26
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 1057
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_27
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 1057
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_28
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 1057
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_29
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 1057
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_30
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 1057
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_31
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 1057
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_32
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1025
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_33
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 1025
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_34
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 1025
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_35
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 1025
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_36
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 1031
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_37
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 1025
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_38
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 1025
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_39
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 1025
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_40
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 1025
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_41
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 1025
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_42
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 1025
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_43
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 1025
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_44
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 1025
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_45
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 1025
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_46
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 1025
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_47
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 1025
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_48
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 993
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_49
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 993
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_50
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 993
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_51
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 993
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_52
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 993
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_53
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 993
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_54
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 993
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_55
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 993
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_56
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 993
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_57
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 993
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_58
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 993
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_59
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 993
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_60
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 993
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_61
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 993
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_62
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 993
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_63
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 993
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_64
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 961
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_65
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 961
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_66
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 961
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_67
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 961
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_68
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 961
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_69
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 961
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_70
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 961
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_71
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 961
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_72
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 961
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_73
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 961
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_74
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 961
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_75
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 961
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_76
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 961
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_77
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 961
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_78
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 961
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_79
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 961
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_80
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 929
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_81
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 929
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_82
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 929
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_83
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 929
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_84
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 929
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_85
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 929
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_86
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 929
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_87
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 929
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_88
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 929
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_89
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 929
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_90
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 929
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_91
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 929
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_92
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 929
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_93
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 929
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_94
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 929
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_95
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 929
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_96
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 897
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_97
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 897
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_98
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 897
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_99
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 897
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_100
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 897
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_101
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 891
+        width: 28
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_102
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 897
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_103
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 897
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_104
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 897
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_105
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 897
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_106
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 897
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_107
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 897
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_108
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 903
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_109
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 897
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_110
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 897
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_111
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 897
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_112
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 865
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_113
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 867
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_114
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 865
+        width: 28
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_115
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 865
+        width: 28
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_116
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 865
+        width: 28
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_117
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 865
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_118
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 865
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_119
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 865
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_120
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 865
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_121
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 865
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_122
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 865
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_123
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 865
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_124
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 865
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_125
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 865
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_126
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 865
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_127
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 865
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_128
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 800
+        width: 512
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_129
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 770
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_130
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 776
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_131
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 770
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_132
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 770
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_133
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 770
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_134
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 770
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_135
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 774
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_136
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 770
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_137
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 774
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_138
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 770
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_139
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 770
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_140
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 770
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_141
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 770
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_142
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 772
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_143
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 770
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_144
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 774
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_145
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 738
+        width: 28
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_146
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 742
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_147
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 742
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_148
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 738
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_149
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 738
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_150
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 744
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_151
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 744
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_152
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 738
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_153
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 738
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_154
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 738
+        width: 26
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_155
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 742
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_156
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 738
+        width: 28
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_157
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 742
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_158
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 742
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_159
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 738
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_160
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 738
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_161
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 744
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_162
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 744
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_163
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 738
+        width: 26
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_164
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 738
+        width: 26
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_165
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 706
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_166
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 706
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_167
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 710
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_168
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 710
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_169
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 710
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_170
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 710
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_171
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 710
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_172
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 706
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_173
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 706
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_174
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 706
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_175
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 706
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_176
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 708
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_177
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 708
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_178
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 708
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_179
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 708
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_180
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 708
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_181
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 706
+        width: 28
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_182
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 706
+        width: 28
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_183
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 674
+        width: 28
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_184
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 674
+        width: 28
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_185
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 674
+        width: 28
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_186
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 674
+        width: 28
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_187
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 674
+        width: 28
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_188
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 674
+        width: 28
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_189
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 674
+        width: 28
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_190
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 674
+        width: 28
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_191
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 674
+        width: 28
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_192
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 674
+        width: 28
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_193
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 674
+        width: 28
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_194
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 674
+        width: 28
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_195
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 676
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_196
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 676
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_197
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 676
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_198
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 676
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_199
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 644
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_200
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 644
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_201
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 644
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_202
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 644
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_203
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 644
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_204
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 644
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_205
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 644
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_206
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 644
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_207
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 644
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_208
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 644
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_209
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 644
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_210
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 644
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_211
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 644
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_212
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 644
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_213
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 648
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_214
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 650
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_215
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 618
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_216
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 618
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_217
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 618
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_218
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 618
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_219
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 618
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_220
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 618
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_221
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 618
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_222
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 618
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_223
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 618
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_224
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 612
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_225
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 608
+        width: 192
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_226
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 580
+        width: 32
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_227
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 578
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_228
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 578
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_229
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 578
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_230
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 578
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_231
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 578
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_232
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 578
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_233
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 578
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_234
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 578
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_235
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 578
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_236
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 578
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_237
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 578
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_238
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 578
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_239
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 578
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_240
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 578
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_241
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 578
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_242
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 546
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_243
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 546
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_244
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 546
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_245
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 556
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_246
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 556
+        width: 8
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_247
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 556
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_248
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 556
+        width: 8
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_249
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 556
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_250
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 556
+        width: 8
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_251
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 556
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_252
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 556
+        width: 8
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_253
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 556
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_254
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 556
+        width: 8
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_255
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 556
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_256
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 556
+        width: 8
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_257
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 556
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_258
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 556
+        width: 8
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_259
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 550
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_260
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 550
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_261
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 548
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_262
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 550
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_263
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 550
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_264
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 554
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_265
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 546
+        width: 26
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_266
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 546
+        width: 26
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_267
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 546
+        width: 26
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_268
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 546
+        width: 26
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_269
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 546
+        width: 26
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_270
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 546
+        width: 26
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_271
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 546
+        width: 26
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_272
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 520
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_273
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 520
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_274
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 514
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_275
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 516
+        width: 28
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_276
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 514
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_277
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 514
+        width: 8
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_278
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 516
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_279
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 512
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_280
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 514
+        width: 8
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_281
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 516
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_282
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 512
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_283
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 516
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_284
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 518
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_285
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 520
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_286
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 518
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_287
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 516
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_288
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 482
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_289
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 488
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_290
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 486
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_291
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 482
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_292
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 482
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_293
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 482
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_294
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 482
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_295
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 482
+        width: 64
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_296
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 482
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_297
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 482
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_298
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 482
+        width: 8
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_299
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 482
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_300
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 486
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_301
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 486
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_302
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 484
+        width: 28
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_303
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 450
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_304
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 456
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_305
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 416
+        width: 30
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_306
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 454
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_307
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 450
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_308
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 450
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_309
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 452
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_310
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 416
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_311
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 450
+        width: 10
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_312
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 454
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_313
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 454
+        width: 28
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_314
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 452
+        width: 26
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_315
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 460
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_316
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 448
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_317
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_318
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_319
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 416
+        width: 12
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_320
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 416
+        width: 12
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_321
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 416
+        width: 12
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_322
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 418
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_323
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 420
+        width: 28
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_324
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 418
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_325
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 416
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_326
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 416
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_327
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 416
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_328
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 417
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_329
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 386
+        width: 26
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_330
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 418
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_331
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 420
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_332
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 422
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_333
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 388
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_334
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 388
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_335
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 384
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_336
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 390
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_337
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 386
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_338
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 390
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_339
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 386
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_340
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 386
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_341
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 386
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_342
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 386
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_343
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 386
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_344
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 386
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_345
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 386
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_346
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 392
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_347
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 386
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_348
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 354
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_349
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 354
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_350
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 354
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_351
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 354
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_352
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 354
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_353
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 354
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_354
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 354
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_355
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 354
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_356
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 354
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_357
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 354
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_358
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 356
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_359
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 356
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_360
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 356
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_361
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 354
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_362
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 354
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_363
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 354
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_364
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 322
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_365
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 322
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_366
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 322
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_367
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 322
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_368
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 322
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_369
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 322
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_370
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 322
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_371
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 322
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_372
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_373
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 322
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_374
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 322
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_375
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 322
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_376
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 322
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_377
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 322
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_378
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 320
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_379
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 322
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_380
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 292
+        width: 12
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_381
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 292
+        width: 12
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_382
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 292
+        width: 12
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_383
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 292
+        width: 12
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_384
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 292
+        width: 12
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_385
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 292
+        width: 12
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_386
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 292
+        width: 12
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_387
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 290
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_388
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 290
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_389
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 290
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_390
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 290
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_391
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_392
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 292
+        width: 30
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_393
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 292
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_394
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 288
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_395
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 290
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_396
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 260
+        width: 12
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_397
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 259
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_398
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 262
+        width: 28
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_399
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 260
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_400
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 257
+        width: 14
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_401
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 258
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_402
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 256
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_403
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 262
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_404
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 258
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_405
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 262
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_406
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 258
+        width: 32
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_407
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 258
+        width: 32
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_408
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 258
+        width: 31
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_409
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 258
+        width: 31
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_410
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 258
+        width: 31
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_411
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 258
+        width: 31
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_412
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 224
+        width: 31
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_413
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 224
+        width: 31
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_414
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 224
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_415
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 224
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_416
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 224
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_417
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 224
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_418
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 225
+        width: 31
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_419
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 225
+        width: 31
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_420
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 224
+        width: 29
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_421
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 224
+        width: 29
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_422
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 224
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_423
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 224
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_424
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 225
+        width: 64
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_425
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 230
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_426
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 224
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_427
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_428
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 194
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_429
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 194
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_430
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 194
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_431
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 194
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_432
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 194
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_433
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 194
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_434
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 194
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_435
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 194
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_436
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 194
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_437
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 194
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_438
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 194
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_439
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 194
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_440
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 194
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_441
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 194
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_442
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 194
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_443
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 162
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_444
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 162
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_445
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 162
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_446
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 162
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_447
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 162
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_448
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 162
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_449
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 162
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_450
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 162
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_451
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 162
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_452
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 162
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_453
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 162
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_454
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 162
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_455
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 162
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_456
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 162
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_457
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 162
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_458
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 162
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_459
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 130
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_460
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 130
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_461
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 130
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_462
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 130
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_463
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 130
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_464
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 142
+        width: 28
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_465
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 140
+        width: 28
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_466
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 140
+        width: 32
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_467
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 142
+        width: 28
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_468
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 140
+        width: 28
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_469
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 140
+        width: 28
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_470
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 142
+        width: 28
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_471
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 140
+        width: 28
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_472
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 140
+        width: 28
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_473
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 138
+        width: 28
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_474
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 142
+        width: 26
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_475
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 108
+        width: 28
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_476
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 106
+        width: 28
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_477
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 106
+        width: 28
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_478
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 100
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_479
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 100
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_480
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 100
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_481
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 100
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_482
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 100
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_483
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 98
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_484
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 100
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_485
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 98
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_486
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 100
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_487
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 100
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_488
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 98
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_489
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 98
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_490
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 96
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_491
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 128
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_492
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 68
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_493
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 68
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_494
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 68
+        width: 12
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_495
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 64
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_496
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 64
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_497
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 66
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_498
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 64
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_499
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 71
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_500
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 72
+        width: 64
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_501
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 65
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_502
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 65
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_503
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 36
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_504
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 36
+        width: 32
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_505
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 40
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_506
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 34
+        width: 8
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_507
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 34
+        width: 8
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_508
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 34
+        width: 8
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_509
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 34
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_510
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 36
+        width: 12
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_511
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 34
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_512
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 36
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_513
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 36
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_514
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 34
+        width: 8
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_515
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 34
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_516
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 34
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_517
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 34
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_518
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 34
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_519
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 6
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_520
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 1
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialCraft_2CSS_521
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 2
+        width: 14
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
